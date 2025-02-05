@@ -16,6 +16,3 @@ Ce projet **BootCamp** est une application conçue pour [insérer une brève des
 - **Autres outils** : [Ex: Git, Docker, Postman]
 
 ## 📦 Installation et exécution  
-### 1️⃣ Cloner le projet  
-```bash
-git clone https://github.com/ton-utilisateur/BootCamp.git
